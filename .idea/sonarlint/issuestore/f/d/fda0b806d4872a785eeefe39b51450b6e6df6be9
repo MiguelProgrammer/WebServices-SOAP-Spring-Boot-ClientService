@@ -1,0 +1,7 @@
+
+
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "customerPort".(ËÏ„Í8ü«Ş»¨1
+\
+java:S1117"?Rename "customerPort" which hides the field declared at line 7.(ËÏ„Í8´Õ»¨1
+M
+java:S1068"0Remove this unused "customerPort" private field.(„Â8‡³á»¨1
